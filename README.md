@@ -1,25 +1,25 @@
 # 👋 Hi, I'm Rodrigo Barber
 
 **Biologist specialising in bioinformatics and computational biology.**  
-I work at the intersection of genomics, statistics and data‑driven molecular biology.
+
+I graduated in Biology from the Autonomous University of Madrid (UAM) and I am currently completing a Master’s in Bioinformatics and Computational Biology. My goal is to pursue a PhD that integrates both dry‑lab and wet‑lab research in biomedicine.
 
 ## 🔬 About me
-- 🎓 MSc in Bioinformatics & Statistical Genetics (Madrid)
-- 🧬 Experience with ChIP‑seq, RNA‑seq, spatial transcriptomics and NGS workflows
-- 🧪 Focus on reproducible research using Galaxy, R/Bioconductor and Python
-- 📊 Interested in statistical modelling, differential analysis and functional annotation
+- Background in Biology and Bioinformatics & Computational Biology (UAM)
+- Dry‑lab experience: ChIP‑seq, RNA‑seq, spatial transcriptomics and NGS workflows
+- Wet‑lab experience: Western blotting, immunofluorescence, cell culture
+- Strong interest in integrative biomedical research
+
+## 🧪 Experience
+- Laboratory placement at UAM during my Biology degree (cell biology, immunology, genetics...)
+- Internship at the Spanish National Cancer Research Centre (CNIO), investigating the role of exosomes in the secretion of damaged DNA in melanoma cells
 
 ## 🛠️ Tools & Technologies
 - **Languages:** R, Python, Bash  
-- **Bioinformatics:** Galaxy, Bioconductor, deepTools, MACS2, ChIPseeker, DiffBind  
-- **Data:** tidyverse, ggplot2, pandas, NumPy  
+- **Bioinformatics:** Galaxy, deepTools, MACS2, ChIPseeker, DiffBind  
+- **Data analysis:** tidyverse, ggplot2, pandas, NumPy  
 - **Other:** Git, Quarto, VS Code
 
-## 📂 Featured Projects
-- 🔹 **ChIP‑seq analysis pipeline** — peak calling, annotation and differential binding  
-- 🔹 **Spatial transcriptomics workflows** — Visium data processing and visualization  
-- 🔹 **NGS reproducible workflows** — Galaxy‑based pipelines with documentation
-
 ## 📫 Contact
-- ✉️ rodrigo.barber@…  
-- 🔗 LinkedIn: …  
+- ✉️ blackdrako54@gmail.com
+
